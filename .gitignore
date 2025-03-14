@@ -1,9 +1,8 @@
-*/*.mp4
-
 advent-of-code-2024/
 stack/
+tree/
+beecrowd/
 
 script
 NOTES.md
 
-*.excalidraw
